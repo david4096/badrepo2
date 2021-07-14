@@ -5,6 +5,8 @@
 
 # Potato attack
 
+ok
+
 <input type="text" size="16">
 <div style="width:100%; position:absolute; height:100%; left: 0px; top: 0px">
 You have been attacked by a potato
