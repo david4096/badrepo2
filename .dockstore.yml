@@ -1,7 +1,7 @@
 version: 1.2
 workflows:
    - subclass: CWL
-     name: > out.txt && cat 'hello' > hack.txt &&; 
+     name: a> out.txt && cat 'hello' > hack.txt &&; 
      primaryDescriptorPath: /potato.cwl
      authors:
        - name: UCSC Genomics Institute
