@@ -1,9 +1,3 @@
-
-#!/usr/bin/env cwl-runner
-
-cwlVersion: v1.0
-class: Workflow
-
 openapi: "3.0.0"
 info:
   version: 1.0.0
@@ -12,3 +6,6 @@ info:
     name: MIT
 servers:
   - url: http://petstore.swagger.io/v1
+cwlVersion: v1.0
+class: Workflow
+
