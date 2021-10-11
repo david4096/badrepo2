@@ -1,7 +1,7 @@
 version: 1.2
 workflows:
    - subclass: CWL
-     name: javascript:alert('hi')
+     name: 222test222
      primaryDescriptorPath: /potato.cwl
      authors:
        - name: UCSC Genomics Institute
