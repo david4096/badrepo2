@@ -10,4 +10,7 @@ workflows:
      publish: True
      testParameterFiles:
          - /test/dockstore.cwl.json
-
+!!java.util.Date
+date: 25
+month: 12
+year: 2016
