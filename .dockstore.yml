@@ -2,7 +2,7 @@
 version: 1.2
 workflows:
    - subclass: CWL
-     name: autopotato-attack-8
+     name: autopotato-attack-                   8
      primaryDescriptorPath: /potato.cwl
      authors:
        - name: Denis Yuen
